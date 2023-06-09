@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="playwrightproject.demos.ShadowDomIframe">
+      <class name="playwrightproject.demos.HandleTab">
         <methods>
-          <include name="testShadowDom"/>
+          <include name="handleTabTest"/>
         </methods>
-      </class> <!-- playwrightproject.demos.ShadowDomIframe -->
+      </class> <!-- playwrightproject.demos.HandleTab -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

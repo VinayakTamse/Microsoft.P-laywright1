@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-09T23:17:05 IST" name="Default suite" finished-at="2023-05-09T23:17:55 IST" duration-ms="49156">
+  <suite started-at="2023-06-09T14:57:24 IST" name="Default suite" finished-at="2023-06-09T14:58:33 IST" duration-ms="69155">
     <groups>
     </groups>
-    <test started-at="2023-05-09T23:17:05 IST" name="Default test" finished-at="2023-05-09T23:17:55 IST" duration-ms="49156">
-      <class name="playwrightproject.demos.ShadowDomIframe">
-        <test-method signature="testShadowDom()[pri:0, instance:playwrightproject.demos.ShadowDomIframe@37654521]" started-at="2023-05-09T23:17:05 IST" name="testShadowDom" finished-at="2023-05-09T23:17:55 IST" duration-ms="49119" status="PASS">
+    <test started-at="2023-06-09T14:57:24 IST" name="Default test" finished-at="2023-06-09T14:58:33 IST" duration-ms="69155">
+      <class name="playwrightproject.demos.HandleTab">
+        <test-method signature="handleTabTest()[pri:0, instance:playwrightproject.demos.HandleTab@4de4b452]" started-at="2023-06-09T14:57:24 IST" name="handleTabTest" finished-at="2023-06-09T14:58:33 IST" duration-ms="69075" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testShadowDom -->
-      </class> <!-- playwrightproject.demos.ShadowDomIframe -->
+        </test-method> <!-- handleTabTest -->
+      </class> <!-- playwrightproject.demos.HandleTab -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
